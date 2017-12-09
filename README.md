@@ -27,7 +27,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://github.com/Jian-Chen-SBU/Code-Path-IOS-Prework/raw/master/tipCalcilatorVideoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/Jian-Chen-SBU/Code-Path-IOS-Prework/blob/master/tipCalcilatorVideoWalkThrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
